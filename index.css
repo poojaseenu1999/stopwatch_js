@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    color: white;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    height: 100%;
+}
+
+ .container{
+   margin-top: 20%;
+
+
+} 
+
+#start{
+    background-color: grey;
+    padding: 10px;
+    width: 100px;
+    border-radius: 5px;
+    border: 1px solid darkgray;
+    
+}
+
+#start:hover{
+    background-color: lightgrey;
+}
+#stop{
+    background-color: grey;
+    padding: 10px;
+    width: 100px;
+    border-radius: 5px;
+    border: 1px solid darkgray;
+}
+#stop:hover{
+    background-color: lightgrey;
+}
+#reset{
+    background-color: grey;
+    padding: 10px;
+    width: 100px;
+    border-radius: 5px;
+    border: 1px solid darkgray;
+}
+#reset:hover{
+    background-color: lightgrey;
+}
